@@ -1,0 +1,7 @@
+S
+S -> aBcDeF | HF | Bc
+B -> b | @
+D -> d | @
+F -> G
+G -> f | g
+H -> @
